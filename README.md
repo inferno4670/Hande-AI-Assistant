@@ -9,9 +9,6 @@ A lightweight AI chat assistant built with **Python**, **CustomTkinter GUI**, an
 - Responsive GUI (stop button, copy-to-clipboard, sessions)  
 - Thread-safe design for smooth UX  
 
-## 📽 Demo
-*(Insert your video/GIF link here once uploaded)*  
-
 ## ⚡ Installation
 Clone the repo:
 ```bash
