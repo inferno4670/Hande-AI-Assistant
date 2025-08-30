@@ -1,2 +1,5 @@
 ollama
 customtkinter
+Pillow
+requests
+aiohttp
